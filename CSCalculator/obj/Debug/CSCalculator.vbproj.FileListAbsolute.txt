@@ -1,0 +1,11 @@
+c:\users\kara\documents\visual studio 2015\Projects\CSCalculator\CSCalculator\bin\Debug\CSCalculator.exe.config
+c:\users\kara\documents\visual studio 2015\Projects\CSCalculator\CSCalculator\obj\Debug\CSCalculator.vbprojResolveAssemblyReference.cache
+c:\users\kara\documents\visual studio 2015\Projects\CSCalculator\CSCalculator\obj\Debug\CSCalculator.MCalculator.resources
+c:\users\kara\documents\visual studio 2015\Projects\CSCalculator\CSCalculator\obj\Debug\CSCalculator.Resources.resources
+c:\users\kara\documents\visual studio 2015\Projects\CSCalculator\CSCalculator\obj\Debug\CSCalculator.vbproj.GenerateResource.Cache
+c:\users\kara\documents\visual studio 2015\Projects\CSCalculator\CSCalculator\obj\Debug\CSCalculator.xml
+c:\users\kara\documents\visual studio 2015\Projects\CSCalculator\CSCalculator\bin\Debug\CSCalculator.exe
+c:\users\kara\documents\visual studio 2015\Projects\CSCalculator\CSCalculator\bin\Debug\CSCalculator.pdb
+c:\users\kara\documents\visual studio 2015\Projects\CSCalculator\CSCalculator\bin\Debug\CSCalculator.xml
+c:\users\kara\documents\visual studio 2015\Projects\CSCalculator\CSCalculator\obj\Debug\CSCalculator.exe
+c:\users\kara\documents\visual studio 2015\Projects\CSCalculator\CSCalculator\obj\Debug\CSCalculator.pdb
